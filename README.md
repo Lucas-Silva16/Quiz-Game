@@ -7,6 +7,8 @@
 
 An interactive quiz game inspired by *Who Wants to Be a Millionaire?*, built with an ESP32 microcontroller and components from the Freenove Ultimate Starter Kit.
 
+> This project is a reimplementation of a university assignment. After completing the original version, I realised it was possible to recreate the same circuit with fewer components and achieve the same result with less code by using a more modern microcontroller — the ESP32. This repository reflects that improved approach.
+
 ---
 
 ## Demonstrations
@@ -14,15 +16,13 @@ An interactive quiz game inspired by *Who Wants to Be a Millionaire?*, built wit
 | Scenario | Video |
 |----------|-------|
 | Victory — All questions answered correctly | [Win](https://youtube.com/shorts/QfdzBolSjC4) |
-| Wrong Answer & Time Expired  — Game Over |  [Loss](https://youtube.com/shorts/gII11c-Q8kY) |
-
+| Wrong Answer & Time Expired — Game Over | [Loss](https://youtube.com/shorts/gII11c-Q8kY) |
 
 ---
 
 ## Circuit
 
 ![ESP32 Quiz Circuit](aura.webp)
-
 
 ---
 
@@ -57,7 +57,7 @@ An interactive quiz game inspired by *Who Wants to Be a Millionaire?*, built wit
 ## Pin Mapping
 
 | Component | ESP32 GPIO |
-|-----------|-----------|
+|-----------|------------|
 | BTN START | `GPIO 5` |
 | BTN A | `GPIO 26` |
 | BTN B | `GPIO 27` |
