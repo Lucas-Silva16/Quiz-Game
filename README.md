@@ -13,15 +13,15 @@ An interactive quiz game inspired by *Who Wants to Be a Millionaire?*, built wit
 
 | Scenario | Video |
 |----------|-------|
-| Victory — All questions answered correctly | [![Victory](https://youtube.com/shorts/QfdzBolSjC4) |
-| Wrong Answer & Time Expired  — Game Over | [![Wrong Answer](https://img.youtube.com/vi/VIDEO_ID_2/0.jpg)](https://youtube.com/shorts/gII11c-Q8kY) |
+| Victory — All questions answered correctly | [Win](https://youtube.com/shorts/QfdzBolSjC4) |
+| Wrong Answer & Time Expired  — Game Over |  [Loss](https://youtube.com/shorts/gII11c-Q8kY) |
 
 
 ---
 
 ## Circuit
 
-![ESP32 Quiz Circuit](aura.WEBP)
+![ESP32 Quiz Circuit](aura.webp)
 
 
 ---
